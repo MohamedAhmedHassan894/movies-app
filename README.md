@@ -5,7 +5,6 @@ A Flutter application that fetch movies data from TMDB Movies Apis "https://api.
 ## Getting Started
 
 This project uses the bloc state manegement package to manege Application states, and follows the bloc Pattern as an architecture for app layers.
-![Alt text](https://drive.google.com/file/d/1vXDAO8QI9Ho2BQjKNUQ5s_EJHcLUmWWW/view?usp=drive_link "Optional title")
 
 
-![DEVICE-2020-08-31-23-30-13-0920](https://drive.google.com/file/d/18lfkXQrQljSaOz8YXVJZcvu8sgnejFpX/view?usp=sharing)
+![Screenshot]([https://i.imgur.com/example.png](https://i.imgur.com/IBDoAA5.png)https://i.imgur.com/IBDoAA5.png)
