@@ -27,6 +27,7 @@
 2. <span style="font-family: Arial, sans-serif; color: #545454;">View the list of movies</span>
 3. <span style="font-family: Arial, sans-serif; color: #545454;">Click on a movie to view its details</span>
 4. <span style="font-family: Arial, sans-serif; color: #545454;">Offline mode for viewing previously loaded movie data without an internet connection</span>
+5. <span style="font-family: Arial, sans-serif; color: #545454;">BLoC pattern as state management and architecture</span>
 
 ## <span style="font-family: Arial, sans-serif; color: #0077b5;">Testing</span>
 
