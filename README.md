@@ -8,4 +8,4 @@ This project uses the bloc state manegement package to manege Application states
 
 
 ![Screenshot](https://i.imgur.com/IBDoAA5.png)
-![Screenshot](https://imgur.com/Xu9v9R6)
+![Screenshot](https://imgur.com/Xu9v9R6.png)
